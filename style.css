@@ -47,6 +47,11 @@ body {
   clear: both;
 }
 
+.img9 {
+  text-align: center;
+  border-radius: 5px;
+  }
+
 .anchor1 {
   padding-bottom: 0.5rem;
   color: white;
