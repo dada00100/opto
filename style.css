@@ -243,11 +243,11 @@ a {
   color: white;
   padding: 2rem;
   text-align: center;
-  position: sticky;
+  position: fixed;
 
  
 
-  bottom: 1;
+  bottom: 0;
 
   width: 100%;
 
